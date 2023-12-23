@@ -45,6 +45,12 @@
 }
 
 
+.hidenBtnScroll{
+    opacity: 0;
+}
+
+
+
 .time{
     display: flex;
     justify-content: center;
