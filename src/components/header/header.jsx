@@ -14,7 +14,7 @@ function Header() {
         setInterval(()=>{
             window.scrollTo(0,x)
             x += 2
-        },7)
+        },5)
     }
 
 
