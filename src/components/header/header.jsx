@@ -13,7 +13,7 @@ function Header() {
     const scrollFun = () => {
         setInterval(()=>{
             window.scrollTo(0,x)
-            x += 3
+            x += 2
         },5)
     }
 
