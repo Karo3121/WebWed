@@ -25,7 +25,7 @@ function Header() {
 
         const interval =  setInterval(() => {
             let dateNew = new Date
-            let futureDate = new Date(2024,2    ,4)
+            let futureDate = new Date(2024,7,5)
 
         
             let day = Math.floor((futureDate - dateNew) / (1000 * 60 * 60 * 24 ) )
